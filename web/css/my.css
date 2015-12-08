@@ -1,0 +1,105 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.player {
+    width: 100%;
+}
+
+.artist {
+  float: left;
+  width: 40.3900720785%;
+  margin-left: 2.18845%;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(0, 0, 0);
+  overflow: visible;
+}
+
+.audio {
+  width: 28.9999999999%;
+  height: 31px;
+  margin: 217px auto 0;
+  background-color: rgb(222, 222, 222);
+}
+
+.name {
+  float: left;
+  width: 40.3900720785%;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(0, 0, 0);
+  overflow: visible;
+}
+
+.results {
+  width: 80%;
+  margin: 32px auto 0;
+}
+
+.song {
+  width: 99.8079427083%;
+  height: 22px;
+  margin: 19px auto 0;
+}
+
+._button {
+  display: block;
+  border-radius: 3px;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.song ._button {
+  float: left;
+  width: 6.0056047966%;
+  height: 22px;
+  margin-left: 2.99077%;
+  background-color: #aaaaaa;
+}
+
+._button-1 {
+  float: right;
+  width: 9%;
+  height: 50px;
+  margin: 19px 13% 0 0;
+  background-color: #666666;
+}
+
+._button-2 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 1;
+  width: 9%;
+  height: 50px;
+  margin: 68px 0 0 10%;
+  background-color: #b3b3b3;
+}
+
+._button-3 {
+  position: relative;
+  float: left;
+  z-index: 2;
+  width: 9%;
+  height: 50px;
+  margin: 68px 0 0 1%;
+  background-color: #b3b3b3;
+}
+
+._button-4 {
+  position: relative;
+  float: left;
+  z-index: 3;
+  width: 9%;
+  height: 50px;
+  margin: 68px 0 0 1%;
+  background-color: #b3b3b3;
+}

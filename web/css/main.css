@@ -1,0 +1,116 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.artist {
+  float: left;
+  width: 40.3900720785%;
+  margin-left: 2.18845%;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(0, 0, 0);
+}
+
+.name {
+  float: left;
+  width: 40.3900720785%;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(0, 0, 0);
+}
+
+.results {
+  width: 80%;
+  margin: 280px auto 0;
+}
+
+.song {
+  width: 99.8079427083%;
+  height: 22px;
+  margin: 19px auto 0;
+}
+
+._button {
+  display: block;
+  border-radius: 3px;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._input {
+  display: block;
+  float: left;
+  clear: both;
+  width: 40.8333333333%;
+  height: 52px;
+  margin: 19px 0 0 10%;
+  padding: 0 10px;
+  background-color: rgb(242, 242, 242);
+  font-size: 0.813em;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(0, 0, 0);
+}
+
+.song ._button {
+  float: left;
+  height: 22px;
+}
+
+._button-1 {
+  float: right;
+  width: 9%;
+  height: 50px;
+  margin: 19px 13% 0 0;
+  background-color: #666666;
+}
+
+._button-2 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 1;
+  width: 9%;
+  height: 50px;
+  margin: 68px 0 0 10%;
+  background-color: #b3b3b3;
+}
+
+._button-3 {
+  position: relative;
+  float: left;
+  z-index: 2;
+  width: 9%;
+  height: 50px;
+  margin: 68px 0 0 1%;
+  background-color: #b3b3b3;
+}
+
+._button-4 {
+  position: relative;
+  float: left;
+  z-index: 3;
+  width: 9%;
+  height: 50px;
+  margin: 68px 0 0 1%;
+  background-color: #b3b3b3;
+}
+
+.song ._button-5 {
+  width: 6.0056047966%;
+  margin-left: 2.9907700335%;
+  background-color: #aaaaaa;
+}
+
+.song ._button-6 {
+  width: 7.0059958289%;
+  margin-left: 0.99638%;
+  background-color: rgb(95, 95, 95);
+}

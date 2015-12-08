@@ -1,0 +1,67 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1.188em/1.38 Helvetica;
+  color: rgb(255, 255, 255);
+}
+
+.login {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 4;
+  width: 42.3333333333%;
+  height: 395px;
+  margin: auto;
+  border-radius: 3px;
+}
+
+._button {
+  display: block;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._input {
+  display: block;
+  width: 70%;
+  height: 70px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0 10px;
+  background-color: rgb(230, 230, 230);
+  font-size: 0.895em;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(0, 0, 0);
+}
+
+.login ._button {
+  width: 70%;
+  height: 77px;
+  margin: 27px auto 0;
+  background-color: rgb(95, 95, 95);
+  font-size: 1em;
+}
+
+._button-2 {
+  position: fixed;
+  top: 19px;
+  right: 13%;
+  width: 9%;
+  height: 50px;
+  border-radius: 3px;
+  background-color: #666666;
+  font-size: 0.842em;
+}
+
+.login ._input-1 {
+  margin-top: 70px;
+}
+
+.login ._input-2 {
+  margin-top: 9px;
+}
